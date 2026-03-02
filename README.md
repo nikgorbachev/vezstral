@@ -10,9 +10,8 @@ Built for the **Mistral AI Worldwide Hackathon 2026 - Online Edition**, Vezstral
 
 See Vezstral in action!
 
-<video src="./media/veztral-demo.mp4" controls="controls" width="100%">
-  Your browser does not support the video tag.
-</video>
+[screencast_compressed.webm](./media/veztral-demo.mp4)
+
 
 ---
 
