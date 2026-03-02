@@ -89,4 +89,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 Created by **Nikolai Gorbachev** for the Mistral AI Worldwide Hackathon 2026 - Online Edition.
 
--
+- Email: nikolai.m.gorbachev@gmail.com
