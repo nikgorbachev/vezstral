@@ -10,9 +10,12 @@ Built for the **Mistral AI Worldwide Hackathon 2026 - Online Edition**, Vezstral
 
 See Vezstral in action!
 
-<video src="./media/veztral-demo.mp4" controls="controls" width="100%">
-  Your browser does not support the video tag.
-</video>
+[vezstral-screencast-demo](https://github.com/user-attachments/assets/ab921ad4-2f78-42e8-aad8-d1ffb10587cc)
+
+
+
+
+
 
 ---
 
@@ -86,4 +89,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 Created by **Nikolai Gorbachev** for the Mistral AI Worldwide Hackathon 2026 - Online Edition.
 
--
+- Email: nikolai.m.gorbachev@gmail.com
