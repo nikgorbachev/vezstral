@@ -1,21 +1,16 @@
-# Vezstral: The Bolognese AI
+# Vez-ai: The Bolognese AI
 
-**Vezstral is a fine-tuned Ministral 3B model that talks, thinks, and advises like a true local "vez" (friend) from Bologna, Italy.**
+**Vez-ai is a fine-tuned Ministral 3B model that talks, thinks, and advises like a true local "vez" (friend) from Bologna, Italy.**
 
-Built for the **Mistral AI Worldwide Hackathon 2026 - Online Edition**, Vezstral demonstrates how powerful Foundation Models can be localized to preserve regional linguistics, cultural nuances, and community identity.
+Built for the **Mistral AI Worldwide Hackathon 2026 - Online Edition**, Vez-ai demonstrates how powerful Foundation Models can be localized to preserve regional linguistics, cultural nuances, and community identity.
 
 ---
 
 ## Demo
 
-See Vezstral in action!
+See Vez-ai in action!
 
-[vezstral-screencast-demo](https://github.com/user-attachments/assets/ab921ad4-2f78-42e8-aad8-d1ffb10587cc)
-
-
-
-
-
+[Vez-ai](https://huggingface.co/spaces/n1kg0r/vez-ai-bolognese)
 
 ---
 
@@ -23,11 +18,11 @@ See Vezstral in action!
 
 Who said Artificial Intelligence has to be culturally sterile, hyper-polite, and strictly English-first?
 
-As LLMs become ubiquitous, there is a risk of cultural homogenization. We built Vezstral to prove that an AI can have a sharp, highly localized identity. Think of Vezstral not as a corporate assistant, but as your compatriot — a local companion who views the world from a perspective you deeply understand.
+As LLMs become ubiquitous, there is a risk of cultural homogenization. We built Vez-ai to prove that an AI can have a sharp, highly localized identity. Think of Vez-ai not as a corporate assistant, but as your compatriot — a local companion who views the world from a perspective you deeply understand.
 
 Imagine a world where your AI companion speaks Parisian _Verlan_, London _Cockney_, or Liverpool _Scouse_. Expanding this concept to other regions wouldn't just be incredibly cool and genuinely useful for cultural preservation—it would also make interacting with AI feel much more personal, human, and just plain pleasant.
 
-Bologna has a vibrant, sharp cultural identity with a rich linguistic tapestry. Its local language is a mix of traditional _dialetto bolognese_, timeless regional expressions, and modern youth-driven street slang. Vezstral captures this unique spirit.
+Bologna has a vibrant, sharp cultural identity with a rich linguistic tapestry. Its local language is a mix of traditional _dialetto bolognese_, timeless regional expressions, and modern youth-driven street slang. Vez-ai captures this unique spirit.
 
 ### Why is this useful?
 
@@ -57,7 +52,7 @@ This project uses a **Teacher-Student Synthetic Data Distillation** pipeline, po
 
 ## A Crash Course in Bolognese Slang
 
-Curious about what Vezstral learned? Here is a taste of the linguistic variety injected into the model:
+Curious about what Vez-ai learned? Here is a taste of the linguistic variety injected into the model:
 
 - **"Vez"** - _Friend / Mate / Bro_ (The inspiration for the model's name!).
 - **"Soccia!" / "Sorbole!"** - _Wow! / Damn!_ (Universal expressions of surprise or emphasis).
@@ -73,7 +68,6 @@ Curious about what Vezstral learned? Here is a taste of the linguistic variety i
 - `/notebooks/2_vezstral_finetuning.ipynb`: The QLoRA training script.
 - `/notebooks/3_vezstral_inference.ipynb`: The inference and Web UI script.
 - `/data/training_data.jsonl`: The synthetic training dataset.
-- `/media/veztral-demo.mp4`: Demonstration video of the model.
 
 _(Note: The fine-tuned LoRA adapter weights are hosted publicly on Hugging Face)._
 
