@@ -10,7 +10,7 @@ Built for the **Mistral AI Worldwide Hackathon 2026 - Online Edition**, Vez-ai d
 
 See Vez-ai in action!
 
-[Vez-ai](https://huggingface.co/spaces/n1kg0r/vez-ai-bolognese)
+[Vez-ai HuggingFace Space](https://huggingface.co/spaces/n1kg0r/vez-ai-bolognese)
 
 ---
 
